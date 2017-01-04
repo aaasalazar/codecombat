@@ -1391,8 +1391,8 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    status_expired: "Expired on {{date}}"
 #    status_not_enrolled: "Not Enrolled"
 #    status_enrolled: "Expires on {{date}}"
-#    select_all: "Select All"
-#    project: "Project"
+#    select_all: "Selecciona Todo"
+#    project: "Proyecto"
 #    view_student_project: "View Student Project"
 #    view_arena_ladder: "View Arena Ladder"
 #    resource_hub: "Resource Hub"
@@ -1486,12 +1486,12 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    hoc_additional_contact: "Get in touch"
 
 #  sharing:
-#    game: "Game"
-#    webpage: "Webpage"
+#    game: "Juego"
+#    webpage: "Pagina Web"
 #    your_students_preview: "Your students will click here to see their finished projects! Unavailable in teacher preview."
 #    unavailable: "Link sharing not available in teacher preview."
-#    share_game: "Share This Game"
-#    share_web: "Share This Webpage"
+#    share_game: "Comparte Este Juego"
+#    share_web:  "Comparte Esta Pagina Web"
 #    victory_share_prefix: "Share this link to invite your friends & family to"
 #    victory_share_game: "play your game level"
 #    victory_share_web: "view your webpage"
@@ -1500,10 +1500,10 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    victory_course_share_game: "play the game"
 #    victory_course_share_web: "view the webpage"
 #    victory_course_share_suffix: "you just created."
-#    copy_url: "Copy URL"
+#    copy_url: "Copiar URL"
 
 #  game_dev:
-#    creator: "Creator"
+#    creator: "Creador"
 
 #  web_dev:
 #    image_gallery_title: "Image Gallery"
@@ -1515,9 +1515,9 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
 #    copy_the_img_tag_description: "Useful if you want to insert a new image."
 #    copy_url: "Copy URL"
 #    copy_img: "Copy <img>"
-#    how_to_copy_paste: "How to Copy/Paste"
-#    copy: "Copy"
-#    paste: "Paste"
+#    how_to_copy_paste  "Como Copiar/Pegar"
+#    copy: "Copiar"
+#    paste: "Pegar"
 #    back_to_editing: "Back to Editing"
 
   classes:
